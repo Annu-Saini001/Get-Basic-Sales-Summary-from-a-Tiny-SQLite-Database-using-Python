@@ -85,3 +85,8 @@ plt.show()
 # 7. Close Connection
 # -------------------------------
 conn.close()
+
+
+
+![image alt](https://raw.githubusercontent.com/Annu-Saini001/Get-Basic-Sales-Summary-from-a-Tiny-SQLite-Database-using-Python/e23e529c2e40459a6880283dd8f449e28da15178/image.png)
+ 
